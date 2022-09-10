@@ -1,3 +1,22 @@
 body {
-    background: ;
+    text-align: center;
+    background: #4D8624;
+    background-image: url(../images/farm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.game-area {
+    box-sizing: border-box;
+    width: 85%;
+    height: 65vh;
+    max-height: 450px;
+    max-width: 830px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+}
+.animals {
+    
+    filter: drop-shadow(30px 30px 30px black);
 }
