@@ -25,7 +25,7 @@ body {
     display: none;
 }
 
-.animals {
+#animals {
     
     filter: drop-shadow(30px 30px 30px black);
 }
